@@ -1,0 +1,14 @@
+# Core simulation dependencies (required)
+simpy>=4.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+pyproj>=3.4.0
+
+# Visualization dependencies (optional)
+# Note: PyGMT requires GMT software to be installed separately
+# Note: Manim requires LaTeX to be installed separately
+pygmt>=0.9.0
+geopandas>=0.13.0
+shapely>=2.0.0
+manim>=0.17.0
+matplotlib>=3.7.0
